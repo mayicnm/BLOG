@@ -1,7 +1,7 @@
 ---
 title: 基于hexo搭建个人博客
 date: 2020-11-25 13:27:31
-tags: 经验分享
+tags: 随笔
 ---
 
 # 安装hexo
@@ -17,6 +17,7 @@ https://hexo.io/zh-cn/docs/
 ![](1.png)
 
 输入hexo n "日志名"
+<!-- more -->
 
 ## 编辑日志
 
